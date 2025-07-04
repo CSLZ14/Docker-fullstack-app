@@ -1,0 +1,8 @@
+Prérequis:
+
+Docker & Docker Compose installés
+
+Construction & démarrage
+
+
+docker-compose up --build -d
