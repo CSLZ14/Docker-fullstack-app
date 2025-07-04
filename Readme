@@ -1,8 +1,14 @@
-Prérequis:
+##Prérequis
 
 Docker & Docker Compose installés
 
-Construction & démarrage
 
+##Construction & démarrage
 
+git clone https://github.com/CSLZ14/Docker-fullstack-app.git
+cd SOUTENANCE
 docker-compose up --build -d
+
+L’API est sur http://localhost:3000/
+
+Le front est sur http://localhost/
